@@ -1,0 +1,66 @@
+Sue rolls a 3
+Bob rolls a 3
+It's a tie
+-------------------
+Wilma rolls a 5
+Sue rolls a 3
+Wilma Wins!
+-------------------
+Bob rolls a 6
+Bigun Rollsalot rolls a 8
+Bigun Rollsalot Wins!
+-------------------
+
+Bob rolls a 6
+Taunter rolls a 4
+Bob Wins!
+-------------------
+One Up rolls a 6
+Bob rolls a 5
+One Up Wins!
+-------------------
+Enter number of rolls between 1 and {DiceSize}:
+5
+Human rolls a 5
+Bob rolls a 6
+Bob Wins!
+-------------------
+Creative Taunter rolls a 4
+Bob rolls a 6
+Bob Wins!
+you're an amateur, go sit at the kids' table
+-------------------
+Upper Half rolls a 6
+Bob rolls a 6
+It's a tie
+-------------------
+Sore Loser rolls a 6
+Bob rolls a 2
+Sore Loser Wins!
+-------------------
+Sore Loser Upper rolls a 5
+Bob rolls a 1
+Sore Loser Upper Wins!
+-------------------
+
+Let's play a bunch of times, shall we?
+-------------------
+Enter number of rolls between 1 and {DiceSize}:
+4
+Human rolls a 4
+Sue rolls a 2
+Human Wins!
+-------------------
+
+Taunter rolls a 3
+Bob rolls a 5
+Bob Wins!
+-------------------
+Bigun Rollsalot rolls a 3
+Upper Half rolls a 4
+Upper Half Wins!
+-------------------
+Creative Taunter rolls a 3
+Wilma rolls a 6
+Wilma Wins!
+you're an amateur, go sit at the kids' table
