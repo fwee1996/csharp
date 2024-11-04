@@ -1,0 +1,28 @@
+using System;
+
+namespace Classes
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create an instance of a company. Name it whatever you like.
+            Company myCompany= new Company("Anonymous Inc", new DateTime(2020,4,1,9,0,0));
+            // Create three employees
+            Employee employee1= new Employee("Fiona", "Wee", "Treasurer", new DateTime(2024,4,1,9,0,0));
+            // Assign the employees to the company
+            myCompany.employees.Add(employee1);
+            /*
+                Iterate the company's employee list and generate the
+                simple report shown above
+            */
+            foreach(employee in myCompany.employees){
+                Console.WriteLine($"{employee.FirstName} {employee.LastName} works for {Name} as {employee.Title} since {employee.StartDate}.")
+            }
+            //or:
+            myCompany.ListEmployee();
+        }
+    }
+}
+
+In the Main method of your console application, create a new instance of Company, and three instances of Employee. Then assign the employees to the company.
